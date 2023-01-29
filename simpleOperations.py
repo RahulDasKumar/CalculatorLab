@@ -17,7 +17,6 @@ def simple_calculate(operation, num1, num2):
     elif operation == '-':
         # TODO: finish this statement
         # - should return the result of subtracting num2 from num1
-        pass  # Replace this line with your code
         return num1 - num2
 
     elif operation == '*':
