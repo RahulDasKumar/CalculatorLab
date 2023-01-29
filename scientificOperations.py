@@ -31,6 +31,7 @@ def scientific_calculate(operation, num1):
         # - should return the natural log of num1
         pass  # Replace this line with your code
         return math.log2(num1)
+
     else:
         raise ValueError(
             'Invalid Operation: Scientific Operations are (sin, cos, tan, ln, sqrt, !, ^, and %)')
